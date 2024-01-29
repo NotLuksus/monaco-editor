@@ -1,5 +1,5 @@
 {
-	"name": "monaco-editor",
+	"name": "@notluks/monaco-editor",
 	"version": "0.45.0",
 	"vscodeRef": "af28b32d7e553898b2a91af498b1fb666fdebe0c",
 	"private": true,
@@ -63,7 +63,7 @@
 		"style-loader": "^3.3.1",
 		"terser": "^5.14.2",
 		"ts-node": "^10.6.0",
-		"typescript": "^5.0.2",
+		"typescript": "^5.3.3",
 		"vite": "^3.2.8",
 		"vscode-css-languageservice": "5.4.1",
 		"vscode-html-languageservice": "4.2.4",
